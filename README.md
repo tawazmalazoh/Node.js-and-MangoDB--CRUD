@@ -5,6 +5,6 @@
 #### Instructions 
 This is a basic app to demostrate the CRUD function of node.js with mongoDB - using mongoose framework
 <ul>
- <li>run  \`npm install`</li>
+ <li>run  <code>npm install</code> </li>
 <li>Create a user and interact with MongoDB -  </li>
 </ul>
